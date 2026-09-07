@@ -1,0 +1,6 @@
+{
+  "name": "Nibras — eBook Marketplace",
+  "description": "Production-ready multilingual eBook marketplace featuring browser reader, real uploads, AI reading assistant, verified reviews, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
